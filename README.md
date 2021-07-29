@@ -1,5 +1,4 @@
-               Gold Rates Predication Using Machine Learning
-               Forecasting rise and fall in the daily gold rates, can help investors to decide when to buy (or sell) the commodity. But Gold prices are dependent on many factors such as prices of other precious metals, prices of crude oil, stock exchange performance, Bonds prices, currency exchange rates etc.
+               
 
 In this project would forecast gold rates using the most comprehensive set of features and would apply various machine learning algorithms for forecasting and compare their results. We also identify the attributes that highly influence the gold rates
  
@@ -49,6 +48,9 @@ Date, Open, High, Low, Close, Adjusted Close and Volume, the difference between 
 
 
 Evaluation Metrics:
+
+
+
 I would use Root Mean Square Error(RMSE) and R2 score as my evaluation metrics. Root Mean Square Error (RMSE) is the standard deviation of the residuals (prediction errors). Residuals are a measure of how far from the regression line data points are. The formula for calculating RMSE is given below .
 RMSE is always non-negative, and a value of 0 (almost never achieved in practice) would indicate a perfect fit to the data.
 
