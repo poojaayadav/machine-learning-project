@@ -56,7 +56,7 @@ RMSE is always non-negative, and a value of 0 (almost never achieved in practice
 
 R-squared is a statistical measure of how close the data are to the fitted regression line. It is also known as the coefficient of determination, or the coefficient of multiple determination for multiple regression.
 
-# R-squared is always between 0 and 100%:
+## R-squared is always between 0 and 100%:
 
 * •	0% indicates that the model explains none of the variability of the response data around its mean.
 * •	100% indicates that the model explains all the variability of the response data around its mean. So, when we apply both evaluation metrics to our benchmark and solution models , we would choose the one which has lower RMSE value and higher R2 score value.
