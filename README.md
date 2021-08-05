@@ -31,7 +31,7 @@ The Goal of this project is to accurately predict the future adjusted closing pr
 * •	How to optimise Machine Learning models to increase accuracy and reduction in error.
 
 
-Installations:
+# Installations:
 This project requires Python 3.x and the following Python libraries should be installed to get the project started:
 
 * •	Numpy
@@ -55,7 +55,9 @@ RMSE is always non-negative, and a value of 0 (almost never achieved in practice
 
 
 R-squared is a statistical measure of how close the data are to the fitted regression line. It is also known as the coefficient of determination, or the coefficient of multiple determination for multiple regression.
-R-squared is always between 0 and 100%:
-•	0% indicates that the model explains none of the variability of the response data around its mean.
-•	100% indicates that the model explains all the variability of the response data around its mean. So, when we apply both evaluation metrics to our benchmark and solution models , we would choose the one which has lower RMSE value and higher R2 score value.
+
+# R-squared is always between 0 and 100%:
+
+* •	0% indicates that the model explains none of the variability of the response data around its mean.
+* •	100% indicates that the model explains all the variability of the response data around its mean. So, when we apply both evaluation metrics to our benchmark and solution models , we would choose the one which has lower RMSE value and higher R2 score value.
 
